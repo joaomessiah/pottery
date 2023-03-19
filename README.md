@@ -1,2 +1,2 @@
-# pottery
+# Pottery
 Joao Messias - Pottery
