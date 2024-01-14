@@ -7,4 +7,4 @@
 
 # Others
 
-## [3D Dunets](https://joaomessiah.github.io/pottery/dunets/)
+## [3D Donuts](https://joaomessiah.github.io/pottery/donuts/)
